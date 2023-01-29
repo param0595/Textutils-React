@@ -1,15 +1,15 @@
 {
-  "main.css": "/Textutils-React/static/css/main.9b52e280.chunk.css",
-  "main.js": "/Textutils-React/static/js/main.96eb52ad.chunk.js",
-  "main.js.map": "/Textutils-React/static/js/main.96eb52ad.chunk.js.map",
-  "static/js/1.3c11774c.chunk.js": "/Textutils-React/static/js/1.3c11774c.chunk.js",
-  "static/js/1.3c11774c.chunk.js.map": "/Textutils-React/static/js/1.3c11774c.chunk.js.map",
-  "static/js/2.2b8e7308.chunk.js": "/Textutils-React/static/js/2.2b8e7308.chunk.js",
-  "static/js/2.2b8e7308.chunk.js.map": "/Textutils-React/static/js/2.2b8e7308.chunk.js.map",
-  "runtime~main.js": "/Textutils-React/static/js/runtime~main.daf74f38.js",
-  "runtime~main.js.map": "/Textutils-React/static/js/runtime~main.daf74f38.js.map",
-  "static/css/main.9b52e280.chunk.css.map": "/Textutils-React/static/css/main.9b52e280.chunk.css.map",
-  "index.html": "/Textutils-React/index.html",
-  "precache-manifest.5614c49246c5e4f0c913ec4bb00fd7fe.js": "/Textutils-React/precache-manifest.5614c49246c5e4f0c913ec4bb00fd7fe.js",
-  "service-worker.js": "/Textutils-React/service-worker.js"
+  "main.css": "/Text-Editor-Utility/static/css/main.795cfb97.chunk.css",
+  "main.js": "/Text-Editor-Utility/static/js/main.9554c551.chunk.js",
+  "main.js.map": "/Text-Editor-Utility/static/js/main.9554c551.chunk.js.map",
+  "static/js/1.54087e17.chunk.js": "/Text-Editor-Utility/static/js/1.54087e17.chunk.js",
+  "static/js/1.54087e17.chunk.js.map": "/Text-Editor-Utility/static/js/1.54087e17.chunk.js.map",
+  "static/js/2.92c63dfa.chunk.js": "/Text-Editor-Utility/static/js/2.92c63dfa.chunk.js",
+  "static/js/2.92c63dfa.chunk.js.map": "/Text-Editor-Utility/static/js/2.92c63dfa.chunk.js.map",
+  "runtime~main.js": "/Text-Editor-Utility/static/js/runtime~main.eb0e4bda.js",
+  "runtime~main.js.map": "/Text-Editor-Utility/static/js/runtime~main.eb0e4bda.js.map",
+  "static/css/main.795cfb97.chunk.css.map": "/Text-Editor-Utility/static/css/main.795cfb97.chunk.css.map",
+  "index.html": "/Text-Editor-Utility/index.html",
+  "precache-manifest.09111b94be26dca6fdc9b0871439b8e5.js": "/Text-Editor-Utility/precache-manifest.09111b94be26dca6fdc9b0871439b8e5.js",
+  "service-worker.js": "/Text-Editor-Utility/service-worker.js"
 }
